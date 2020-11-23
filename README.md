@@ -1,2 +1,1 @@
-# time-indicator-on-drag-and-drop-appointment-wpf-scheduler
-How to show time indicator on a specific time when dragging an appointment in WPF Schedule (SfScheduler)
+**[View document in Syncfusion WPF Knowledge base](https://www.syncfusion.com/kb/12056/how-to-show-time-indicator-on-a-specific-time-when-dragging-an-appointment-in-wpf-schedule)**
